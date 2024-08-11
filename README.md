@@ -1,4 +1,4 @@
-About?
+# About?
 HuskyLens is an AI-powered vision sensor designed for projects involving robotics, artificial intelligence, and automation. It is developed by DFRobot and offers several built-in AI functions, including face recognition, object tracking, object recognition, line following, color recognition, and tag (QR code) recognition. 
 
 HuskyLens is user-friendly, featuring a touchscreen interface that allows for easy interaction and configuration without needing a computer. It supports various communication protocols such as UART, I2C, and SPI, making it compatible with different microcontrollers like Arduino, Raspberry Pi, and ESP32.
@@ -83,4 +83,7 @@ void printResult(HUSKYLENSResult result){
 ```
 
 # Demo
+
+https://github.com/user-attachments/assets/0f43b014-d2cc-4307-8c60-50e38e77cc98
+
 
